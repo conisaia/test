@@ -14,7 +14,7 @@
 
 using namespace ns3;
 
-NS_LOG_COMPONENT_DEFINE ("LTESimulationScript");
+//NS_LOG_COMPONENT_DEFINE ("LTESimulationScript");
 
 void
 NotifyConnectionEstablishedUe (std::string context,
